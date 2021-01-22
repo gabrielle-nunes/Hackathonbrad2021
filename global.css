@@ -1,30 +1,31 @@
 
-
 .central{
 	/*background-color: red;*/
 	height: 10vh;
 	width: 40vh;
 	border-radius: 10px;
-	margin-top : 100px;
-	margin-left: 300px;
+	margin-left: 30px;
 	padding: 20%; 
 	background-image: linear-gradient(to bottom right,#D42CEE, #FE2D2D 50%);
 }
 .conteudo {
-	margin: 50px;
-	padding: 50px;
+	margin: 15px;
+	padding: 15px;
 
 }
 
-input[type=text] {
+input{
 	height: 20px;
-  border: 2px;
-  border-radius: 4px;
+  	border: 2px;
+	border-radius: 4px;
+	margin-top: 30px;
+	margin-inline-end: auto;
 }
 img{
-
-	width: 100px;
-	height: 100px;
+	margin-top: 50px;
+	margin-left: 95px;
+	width: 50%;
+	height: 200px;
 	float: left;
 }
 button {
@@ -34,4 +35,6 @@ button {
 	color: white;
 	border : 0px;
 	border-radius: 10px;
+	margin-top: 100px;
+	margin-left: 150px;
 }
